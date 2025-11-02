@@ -1,6 +1,6 @@
 # Hello World Java Project
 
-## 🖼️ Screenshot
+##  Screenshot
 
 
 
